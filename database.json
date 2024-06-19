@@ -1,0 +1,74 @@
+{
+    "Banner": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/Banner1.png?alt=media&token=bcd599f5-bbf1-4806-ab64-ba2676dde0a8"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/Banner2.png?alt=media&token=b6def4ea-72a3-4231-adc1-bc5706306ef6"
+      }
+    ],
+    "Category": [
+      {
+        "id": 0,
+        "picUrl": "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/food.png?alt=media&token=182982e3-671e-42d2-8f2a-4e316dc071e1",
+        "title": "Food"
+      },
+      {
+        "id": 1,
+        "picUrl": "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/cake.png?alt=media&token=8dfb835f-a030-444f-9033-6980e8a9a043",
+        "title": "Dessert"
+      },
+      {
+        "id": 2,
+        "picUrl": "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/drink.png?alt=media&token=5caaa6e2-fdea-4fe5-b9a2-9727eb79f65e",
+        "title": "Drink"
+      }
+    ],
+    "Items": [
+      {
+        "description": "Sedia makanan aneka burger dengan pilihan topping sesuai selera serta keju yang gak pelit. Bebas request seasoning sepuas kalian!",
+        "picUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/beef-burger.png?alt=media&token=daf8f5c4-5aee-432d-b844-0a1eeac396ca",
+          "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/chicken-burger.png?alt=media&token=18d1566e-ee79-44aa-95f1-f5b9b6aea2fd",
+          "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/egg-burger.png?alt=media&token=41a7c41a-0472-4b78-bed3-99ee111966c2",
+          "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/cheese-burger.png?alt=media&token=bdb74711-9774-4fab-9fba-5f1960badbdb",
+          "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/vegan-burger.png?alt=media&token=a28020c1-0c87-47a8-9fad-6ccd6fc369ac"
+        ],
+        "price": 35,
+        "rating": 4.6,
+        "size": [
+          "Original",
+          "Spicy"
+        ],
+        "title": "Burger"
+      },
+      {
+        "description": "Sedia es krim sebagai makanan pencuci mulut yang manis dengan pilihan topping sesuai selera dan sepuas kalian!",
+        "picUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/ice-cream.png?alt=media&token=a27ec134-f2c7-49cd-9b90-9cd2d3239bff"
+        ],
+        "price": 55,
+        "rating": 4.1,
+        "size": [
+          "choco",
+          "vanilla",
+          "strawberry"
+        ],
+        "title": "Dessert"
+      },
+      {
+        "description": "Sedia minuman penghilang dahaga yang menyegarkan!",
+        "picUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/fod-1-de2ba.appspot.com/o/cola.png?alt=media&token=4d026a64-feaf-4249-922a-3945646ae44a"
+        ],
+        "price": 75,
+        "rating": 4.5,
+        "size": [
+          "Cola",
+          "Lemon Tea",
+          "Fruit Tea"
+        ],
+        "title": "Drink"
+      }
+    ]
+  }
